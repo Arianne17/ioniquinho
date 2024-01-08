@@ -9,15 +9,15 @@ export const environment = {
   signInMethod: "redirect",
 
   // URL base da API REST.
-  apiURL: "https://ionteste-2023-default-rtdb.firebaseio.com/",
+  apiURL: "https://espacovip-46874-default-rtdb.firebaseio.com/",
 
   // Altere estas chaves conforme seu próprio projeto no Firebase.com.
   firebase: {
-    apiKey: "AIzaSyB3qGcFb11tOQGm2_vOnUxd7rQaBhcMkPQ",
-    authDomain: "ionteste-2023.firebaseapp.com",
-    projectId: "ionteste-2023",
-    storageBucket: "ionteste-2023.appspot.com",
-    messagingSenderId: "788295881622",
-    appId: "1:788295881622:web:b1ea5f214104177569c3b7"
+    apiKey: "AIzaSyAd5btJi-gsSsRIVVIPCLsetSFlgPXppsw",
+    authDomain: "espacovip-46874.firebaseapp.com",
+    projectId: "espacovip-46874",
+    storageBucket: "espacovip-46874.appspot.com",
+    messagingSenderId: "455243328610",
+    appId: "1:455243328610:web:7d63e8b05f18c3b737353b"
   }
 };
